@@ -165,7 +165,7 @@ This section should be about 1-2 paragraphs in length and can include a table or
 
 ## What to Submit
 
-1. Your completed `char_rnn_starter.py` file with all TODOs filled in.
+1. Your completed `rnn_complete.py` file with all TODOs filled in.
 2. A PDF of your Final Report.
 
 How to generate a pdf of your Final Report Section:
