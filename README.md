@@ -175,9 +175,16 @@ How to generate a pdf of your Final Report Section:
 
 Please submit to Assignment 7 Neural Complete on Gradecsope.
 
-## TODO: Complete course survey
+## TODO: Complete 383GPT Exit Survey
 Link : https://forms.gle/YWBbJc3wDMu3U1CYA
-Completing this survey would add 10 points to your overall Assignment 7 Grade. 
+
+Please also complete this 383GPT Exit Survey about your experience using 383GPT in this course. 
+
+This survey is an important opportunity for us to gather feedback about how the tool supported your learning and how we can improve it for future classes.
+
+Completion of the survey is worth 10 points as a part of Assignment 7 so please take the time to provide thoughtful and honest responses. It should take approximately 10 minutes to complete.
+
+Your answers to this survey will in no way impact your grade in this course, please answer honestly.
 
 ## TODO: Fill out your Final Report here
 
