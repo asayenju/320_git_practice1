@@ -25,7 +25,7 @@ In Assignment 6 you computed a language model from scratch. Now it's time to app
 
 ### Milestone 0. Understand the code
 
-Start by opening `char_rnn_starter.py` reading through whats provided and familiarizing yourself with the structure.
+Start by opening `rnn_complete.py` reading through whats provided and familiarizing yourself with the structure.
 
 The key components are
 - A `CharDataset` class to slice training data into overlapping character sequences.
