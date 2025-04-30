@@ -175,7 +175,7 @@ How to generate a pdf of your Final Report Section:
 
 Please submit to Assignment 7 Neural Complete on Gradecsope.
 
-## TODO: Complete course survey here
+## TODO: Complete course survey
 Link : https://forms.gle/YWBbJc3wDMu3U1CYA
 Completing this survey would add 10 points to your overall Assignment 7 Grade. 
 
