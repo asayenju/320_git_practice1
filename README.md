@@ -197,3 +197,5 @@ How many late days are you using for this assignment?
 3. Explain impact of changing temperature
 
 4. Reflection
+
+5. IMPORTANT: Include screenshot of output for generate_text() function: 
