@@ -189,12 +189,17 @@ Your answers to this survey will in no way impact your grade in this course, ple
 
 ## TODO: Fill out your Final Report here
 
-How many late days are you using for this assignment? 
+How many late days are you using for this assignment? 1 day.
 
 1. Describe your experiments and observations
+Experiments and Observations
+In this experiment, I implemented a character-level RNN from scratch in PyTorch to predict the next character in a sequence. I evaluated the model on two datasets:
 
+A synthetic dataset made by repeating the alphabet: "abcdefghijklmnopqrstuvwxyz" * 100
+A real-world natural language corpus: War and Peace
+The goal was to understand how well a simple RNN can model sequential data of varying complexity, and how hyperparameters and temperature affect the quality of generated text.
 2. Analysis on final train and test loss for both datasets
-
+![Test Loss](test_lost.png)
 3. Explain impact of changing temperature
 
 4. Reflection
