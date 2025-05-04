@@ -198,8 +198,10 @@ In this experiment, I implemented a character-level RNN from scratch in PyTorch 
 A synthetic dataset made by repeating the alphabet: "abcdefghijklmnopqrstuvwxyz" * 100
 A real-world natural language corpus: War and Peace
 The goal was to understand how well a simple RNN can model sequential data of varying complexity, and how hyperparameters and temperature affect the quality of generated text.
-2. Analysis on final train and test loss for both datasets
+2. Analysis on final train and test loss for both dataset
+
 ![Test Loss](test_lost.png)
+
 3. Explain impact of changing temperature
 
 4. Reflection
